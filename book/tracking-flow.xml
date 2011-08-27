@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook V5.0/EN"
+    "http://www.oasis-open.org/docbook/xml/5.0/docbook.dtd" [
+  <!ENTITY TrackerWorkflow SYSTEM "tracker-workflow.xml">
+  <!ENTITY WritingStories  SYSTEM "writing-stories.xml">
+]>
+
+<book xmlns="http://docbook.org/ns/docbook" version="5.0">
+  <title>Tracking Flow</title>
+  <subtitle>Coordinating Teams with Pivotal Tracker</subtitle>
+
+  <part>
+    <title>Projects and Stories</title>
+    &TrackerWorkflow;
+    &WritingStories;
+  </part>
+
+  <part>
+    <title>Advanced Tracker</title>
+    <chapter><title>tbd</title><para>tbd</para></chapter>
+  </part>
+
+  <part>
+    <title>The Tracker Ecosystem</title>
+
+    <chapter><title>Notifications from Tracker</title><para>tbd</para></chapter>
+    <chapter><title>Built-In Integrations</title><para>tbd</para></chapter>
+    <chapter><title>Using the "Other" Integration</title><para>tbd</para></chapter>
+  </part>
+
+  <part>
+    <title>Tracker for Programmers</title>
+
+    <chapter><title>The Tracker API</title><para>tbd</para></chapter>
+    <chapter><title>Using the Activity Web Hook</title><para>tbd</para></chapter>
+    <chapter>
+      <title>
+        API Example: Displaying Your Current Iteration in a Web Page
+      </title>
+      <para>tbd</para>
+    </chapter>
+    <chapter><title>Example: Building a Round-Trip Integration</title><para>tbd</para></chapter>
+  </part>
+
+  <part>
+    <title>Appendixes</title>
+
+    <appendix>
+      <title>Navigating Within Tracker</title>
+      <para>
+one section for each page in Tracker, with instructions on how to get
+there from having just logged in.
+      </para>
+    </appendix>
+
+    <appendix>
+      <title>Tracker Error Messages</title>
+      <para>
+one section for each error message we generate, explanation,
+diagnosis, fixes
+      </para>
+    </appendix>
+  </part>
+
+  <chapter>
+    <title>Stuff that needs to be put in a real place</title>
+    <section><title>Pivotal Tracker for iOS</title><para>tbd</para></section>
+  </chapter>
+</book>
