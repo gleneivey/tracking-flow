@@ -9,23 +9,143 @@
   <title>Tracking Flow</title>
   <subtitle>Coordinating Teams with Pivotal Tracker</subtitle>
 
+  <chapter>
+    <title>Introduction: What Will Tracker Do For You</title>
+    <para>tbd</para>
+  </chapter>
+
   <part>
     <title>Projects and Stories</title>
-    &TrackerWorkflow;
-    &WritingStories;
+
+    <chapter><title>Getting Started</title>
+      <sect1><title>Signing Up for Pivotal Tracker</title><para>tbd</para></sect1>
+      <sect1><title>Accepting an Invitation to Tracker</title><para>tbd</para></sect1>
+      <sect1><title>Signing Out, Signing In</title><para>tbd</para></sect1>
+      <sect1><title>Your Dashboard and the Stories Page</title><para>tbd</para></sect1>
+    </chapter>
+
+    <chapter><title>The Tracker Workflow</title>
+      <sect1><title>The Basics</title>
+	<sect2><title>Stories, What Tracker Tracks</title><para>tbd</para>
+  	  <sect3><title>Story Types</title><para>tbd</para></sect3>
+        </sect2>
+	<sect2><title>Projects, a Team's Stories</title><para>tbd</para></sect2>
+	<sect2><title>The Story Lifecycle</title><para>tbd</para></sect2>
+	<sect2><title>The Story Page</title><para>tbd</para></sect2>
+	<sect2><title>Epics</title><para>tbd</para></sect2>
+      </sect1>
+    </chapter>
+
+    <chapter><title>Writing Stories</title>
+      <sect1><title>What Makes a Good User Story</title><para>tbd</para></sect1>
+      <sect1><title>Story Types in Tracker</title><para>tbd</para></sect1>
+      <sect1><title>Creating and Editing a Story</title><para>tbd</para></sect1>
+      <sect1><title>Comments and Attachments</title><para>tbd</para></sect1>
+      <sect1><title>Story Tasks</title><para>tbd</para></sect1>
+      <sect1><title>Epics</title>
+        <para>
+too big to be a story; containers/groups of stories; how epics are
+like/different from stories
+        </para>
+      </sect1>
+    </chapter>
+
+    <chapter><title>Working in the Stories Page</title>
+      <sect1><title>Moving Stories</title>
+        <para>
+position is priority; priority change and state change; using cloned
+panels; dragging to/from non-state panels (add to epic)
+        </para>
+      </sect1>
+
+      <sect1><title>Organizing Stories with Labels</title><para>tbd</para></sect1>
+      <sect1><title>Finding Stories with Search</title><para>tbd</para></sect1>
+      <sect1><title>[something about multi-story operations]</title><para>tbd</para></sect1>
+      <sect1><title>Other Panels</title>
+	<para>
+explain that for each integration that is configured another panel can
+be opened, and reference to the integrations section
+	</para>
+
+	<sect2><title>Project and Story History</title><para>tbd</para></sect2>
+	<sect2><title>Releases</title><para>tbd</para></sect2>
+	<sect2><title>My Work</title><para>tbd</para></sect2>
+      </sect1>
+    </chapter>
+
+    <chapter><title>Iterations and Velocity</title><para>tbd</para></chapter>
+    <chapter><title>Releases and Scheduling</title><para>tbd</para></chapter>
+
+    <chapter><title>Projects in Tracker</title>
+      <para>
+mention project tabs on the stories page somewhere in here
+      </para>
+
+      <sect1><title>Membership in Projects</title><para>tbd</para></sect1>
+      <sect1><title>Project Settings</title>
+	<para>
+Reference projects/accounts/subscriptions section in "Advanced" for
+"Account" setting.  Reference Integrations sections later for Project
+Integrations.
+	</para>
+
+        <sect2><title>General Settings</title><para>tbd</para></sect2>
+        <sect2><title>Iterations and Velocity Settings</title><para>tbd</para></sect2>
+        <sect2><title>Access Settings</title><para>tbd</para></sect2>
+        <sect2><title>Points for Bugs and Chores</title><para>tbd</para></sect2>
+        <sect2><title>Commit Mode</title><para>tbd</para></sect2>
+      </sect1>
+    </chapter>
+
+    <chapter><title>Epics Full of Stories</title><para>tbd</para></chapter>
+
+    <chapter><title>Agile Methodologies and Pivotal Tracker</title>
+      <sect1><title>General Agile Practices</title><para>tbd</para></sect1>
+      <sect1><title>Extreme Programming with Pivotal Tracker</title><para>tbd</para></sect1>
+      <sect1><title>Scrum with Pivotal Tracker</title><para>tbd</para></sect1>
+      <sect1><title>"Commit Mode" Iteration Planning</title><para>tbd</para></sect1>
+    </chapter>
+
+    <chapter><title>Your Tracker Profile</title>
+      <sect1><title>Updating Your Personal Information</title><para>tbd</para></sect1>
+    </chapter>
   </part>
 
   <part>
     <title>Advanced Tracker</title>
-    <chapter><title>tbd</title><para>tbd</para></chapter>
+    <chapter><title>Accounts, Login, and Subscriptions</title><para>tbd</para></chapter>
+    <chapter><title>Managing an Account</title><para>tbd</para></chapter>
+    <chapter><title>Time Tracking</title><para>tbd</para></chapter>
   </part>
 
   <part>
     <title>The Tracker Ecosystem</title>
 
-    <chapter><title>Notifications from Tracker</title><para>tbd</para></chapter>
-    <chapter><title>Built-In Integrations</title><para>tbd</para></chapter>
+    <chapter><title>Pivotal Tracker for iOS</title><para>tbd</para></chapter>
+    <chapter><title>Public Projects in Tracker</title><para>tbd</para></chapter>
+    <chapter><title>Notifications from Tracker</title>
+      <sect1><title>Twitter</title><para>tbd</para></sect1>
+      <sect1><title>Campfire</title><para>tbd</para></sect1>
+      <sect1><title></title><para>tbd</para></sect1>
+    </chapter>
+
+    <chapter><title>Built-In Integrations</title>
+      <sect1><title>Bugzilla</title><para>tbd</para></sect1>
+      <sect1><title>Lighthouse</title><para>tbd</para></sect1>
+      <sect1><title>JIRA</title><para>tbd</para></sect1>
+      <sect1><title>Get Satisfaction</title><para>tbd</para></sect1>
+      <sect1><title>Zendesk</title><para>tbd</para></sect1>
+    </chapter>
+
     <chapter><title>Using the "Other" Integration</title><para>tbd</para></chapter>
+    <chapter><title>Google Apps Integration</title><para>tbd</para></chapter>
+
+    <chapter><title>External Resources</title>
+      <sect1><title>Community Support on Get Satisfaction</title><para>tbd</para></sect1>
+      <sect1><title>Customer Support Through Email</title><para>tbd</para></sect1>
+      <sect1><title>The Pivotal Tracker Blog</title><para>tbd</para></sect1>
+      <sect1><title>Pivotal Tracker on Twitter</title><para>tbd</para></sect1>
+    </chapter>
   </part>
 
   <part>
@@ -51,6 +171,54 @@
 one section for each page in Tracker, with instructions on how to get
 there from having just logged in.
       </para>
+
+      <section><title>Pricing page</title><para>tbd</para></section>
+      <section><title>Public Projects page</title><para>tbd</para></section>
+      <section><title>Home page</title><para>tbd</para></section>
+      <section><title>Sign In page</title><para>tbd</para></section>
+      <section><title>Forgot Password page</title><para>tbd</para></section>
+      <section><title>Dashboard page</title><para>tbd</para></section>
+      <section><title>Project page</title><para>tbd</para></section>
+      <section><title>All Projects page</title><para>tbd</para></section>
+      <section><title>Help page</title>
+        <para>
+Pivotal Tracker's main "help" page is the FAQ page.
+        </para>
+      </section>
+      <section><title>FAQ Help page</title><para>tbd</para></section>
+      <section><title>Progress Report page</title><para>tbd</para></section>
+      <section><title>Points Breakdown Report page</title><para>tbd</para></section>
+      <section><title>Members Report page</title><para>tbd</para></section>
+      <section><title>Shifts Report page</title><para>tbd</para></section>
+      <section><title>Utilization Report page</title><para>tbd</para></section>
+      <section><title>Time Tracker (Shifts) page</title><para>tbd</para></section>
+      <section><title>New Time Shift page</title><para>tbd</para></section>
+      <section><title>Profile page</title><para>tbd</para></section>
+      <section><title>My Accounts page</title><para>tbd</para></section>
+      <section><title>Plans & Billing page</title><para>tbd</para></section>
+      <section><title>Account Settings page</title><para>tbd</para></section>
+      <section><title>Account Members page</title><para>tbd</para></section>
+      <section><title>Account Projects page</title><para>tbd</para></section>
+      <section><title>Getting Started Help page</title><para>tbd</para></section>
+      <section><title>Recent Updates Help page</title><para>tbd</para></section>
+      <section><title>Third Party Tools Help page</title><para>tbd</para></section>
+      <section><title>API Help page</title><para>tbd</para></section>
+      <section><title>Integrations page</title><para>tbd</para></section>
+      <section><title>Project Settings page</title><para>tbd</para></section>
+      <section><title>Project Members page</title><para>tbd</para></section>
+      <section><title>Project Overview page</title><para>tbd</para></section>
+      <section><title>Project Profile page</title><para>tbd</para></section>
+      <section><title>Project Integrations page</title><para>tbd</para></section>
+      <section><title>Project Reports page</title><para>tbd</para></section>
+      <section><title>Project Export page</title><para>tbd</para></section>
+      <section><title>Project Import page</title><para>tbd</para></section>
+      <section><title>Project Member Bulk Invitation page</title><para>tbd</para></section>
+      <section><title>Project page</title>
+        <para>
+The main Pivotal Tracker page for each project is that project's "Stories" page.
+        </para>
+      </section>
+      <section><title>Stories page</title><para>tbd</para></section>
     </appendix>
 
     <appendix>
@@ -64,6 +232,6 @@ diagnosis, fixes
 
   <chapter>
     <title>Stuff that needs to be put in a real place</title>
-    <section><title>Pivotal Tracker for iOS</title><para>tbd</para></section>
+    <section><title>you might waht to use an "archive" project</title><para>tbd</para></section>
   </chapter>
 </book>
