@@ -9,13 +9,13 @@
   <title>Tracking Flow</title>
   <subtitle>Coordinating Teams with Pivotal Tracker</subtitle>
 
-  <chapter>
-    <title>Introduction: What Will Tracker Do For You</title>
-    <para>tbd</para>
-  </chapter>
-
   <part>
     <title>Projects and Stories</title>
+
+    <chapter>
+      <title>Introduction: What Will Tracker Do For You</title>
+      <para>tbd</para>
+    </chapter>
 
     <chapter><title>Getting Started</title>
       <sect1><title>Signing Up for Pivotal Tracker</title><para>tbd</para></sect1>
@@ -195,7 +195,7 @@ Pivotal Tracker's main "help" page is the FAQ page.
       <section><title>New Time Shift page</title><para>tbd</para></section>
       <section><title>Profile page</title><para>tbd</para></section>
       <section><title>My Accounts page</title><para>tbd</para></section>
-      <section><title>Plans & Billing page</title><para>tbd</para></section>
+      <section><title>Plans &amp; Billing page</title><para>tbd</para></section>
       <section><title>Account Settings page</title><para>tbd</para></section>
       <section><title>Account Members page</title><para>tbd</para></section>
       <section><title>Account Projects page</title><para>tbd</para></section>
