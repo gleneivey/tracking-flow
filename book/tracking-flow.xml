@@ -18,14 +18,7 @@
     </chapter>
 
     <chapter><title>Getting Started</title>
-      <sect1><title>Signing Up for Pivotal Tracker</title><para>tbd</para></sect1>
-      <sect1><title>Accepting an Invitation to Tracker</title><para>tbd</para></sect1>
-      <sect1><title>Signing Out, Signing In</title><para>tbd</para></sect1>
-      <sect1><title>Your Dashboard and the Stories Page</title><para>tbd</para></sect1>
-    </chapter>
-
-    <chapter><title>The Tracker Workflow</title>
-      <sect1><title>The Basics</title>
+      <sect1><title>The Tracker Workflow</title>
 	<sect2><title>Stories, What Tracker Tracks</title><para>tbd</para>
   	  <sect3><title>Story Types</title><para>tbd</para></sect3>
         </sect2>
@@ -33,6 +26,18 @@
 	<sect2><title>The Story Lifecycle</title><para>tbd</para></sect2>
 	<sect2><title>The Story Page</title><para>tbd</para></sect2>
 	<sect2><title>Epics</title><para>tbd</para></sect2>
+      </sect1>
+
+      <sect1><title>The Pivotal Tracker Web Site</title>
+	<sect2><title>Signing Up for Pivotal Tracker</title><para>tbd</para></sect2>
+	<sect2><title>Accepting an Invitation to Tracker</title><para>tbd</para></sect2>
+	<sect2><title>Signing Out, Signing In</title><para>tbd</para></sect2>
+	<sect2><title>Your Dashboard and the Stories Page</title><para>tbd</para></sect2>
+	<sect2><title>Your Tracker Profile</title><para>tbd</para></sect2>
+      </sect1>
+
+      <sect1><title>Working With Collaborators</title>
+        <para>tbd</para>
       </sect1>
     </chapter>
 
@@ -73,8 +78,11 @@ be opened, and reference to the integrations section
       </sect1>
     </chapter>
 
-    <chapter><title>Iterations and Velocity</title><para>tbd</para></chapter>
-    <chapter><title>Releases and Scheduling</title><para>tbd</para></chapter>
+    <chapter><title>Iterations and Time</title>
+      <sect1><title>Velocity</title><para>tbd</para></sect1>
+      <sect1><title>Releases and Scheduling</title><para>tbd</para></sect1>
+      <sect1><title>Committed Iterations</title><para>tbd</para></sect1>
+    </chapter>
 
     <chapter><title>Projects in Tracker</title>
       <para>
@@ -94,6 +102,7 @@ Integrations.
         <sect2><title>Access Settings</title><para>tbd</para></sect2>
         <sect2><title>Points for Bugs and Chores</title><para>tbd</para></sect2>
         <sect2><title>Commit Mode</title><para>tbd</para></sect2>
+        <sect2><title>Archiving and Deleting</title><para>tbd</para></sect2>
       </sect1>
     </chapter>
 
@@ -103,33 +112,51 @@ Integrations.
       <sect1><title>General Agile Practices</title><para>tbd</para></sect1>
       <sect1><title>Extreme Programming with Pivotal Tracker</title><para>tbd</para></sect1>
       <sect1><title>Scrum with Pivotal Tracker</title><para>tbd</para></sect1>
-      <sect1><title>"Commit Mode" Iteration Planning</title><para>tbd</para></sect1>
-    </chapter>
-
-    <chapter><title>Your Tracker Profile</title>
-      <sect1><title>Updating Your Personal Information</title><para>tbd</para></sect1>
+      <sect1><title>Inceptions: Where the First Stories Come From</title><para>tbd</para></sect1>
+      <sect1><title>Tracker Anti-Patterns</title><para>tbd</para></sect1>
     </chapter>
   </part>
 
-  <part>
-    <title>Advanced Tracker</title>
-    <chapter><title>Accounts, Login, and Subscriptions</title><para>tbd</para></chapter>
-    <chapter><title>Managing an Account</title><para>tbd</para></chapter>
-    <chapter><title>Time Tracking</title><para>tbd</para></chapter>
+  <part><title>Advanced Tracker</title>
+    <chapter><title>Reports and Charts</title>
+      <sect1><title>Progress Report</title><para>tbd</para></sect1>
+      <sect1><title>Points Breakdown Report</title><para>tbd</para></sect1>
+      <sect1><title>Members Report</title><para>tbd</para></sect1>
+      <sect1><title>Current Iteration Burn-Up Chart</title><para>tbd</para></sect1>
+      <sect1><title>Velocity Chart</title><para>tbd</para></sect1>
+      <sect1><title>Release Burn-Down Chart</title><para>tbd</para></sect1>
+      <sect1><title>Story Type Breakdown Chart</title><para>tbd</para></sect1>
+    </chapter>
+
+    <chapter><title>Accounts, Logins, and Subscriptions</title><para>tbd</para></chapter>
+    <chapter><title>Managing an Account</title>
+      <sect1><title>Account Settings</title><para>tbd</para></sect1>
+      <sect1><title>Account Memberships</title><para>tbd</para></sect1>
+    </chapter>
+
+    <chapter><title>Time Tracking</title>
+
+      <sect1><title>Account-Level Time Management</title>
+        <sect2><title>Time Administration</title><para>tbd</para></sect2>
+        <sect2><title>Account Locations</title><para>tbd</para></sect2>
+      </sect1>
+      <sect1><title>Time Reporting</title>
+        <sect2><title>Shifts Report</title><para>tbd</para></sect2>
+    </chapter>
   </part>
 
   <part>
     <title>The Tracker Ecosystem</title>
 
     <chapter><title>Pivotal Tracker for iOS</title><para>tbd</para></chapter>
-    <chapter><title>Public Projects in Tracker</title><para>tbd</para></chapter>
-    <chapter><title>Notifications from Tracker</title>
-      <sect1><title>Twitter</title><para>tbd</para></sect1>
-      <sect1><title>Campfire</title><para>tbd</para></sect1>
-      <sect1><title></title><para>tbd</para></sect1>
-    </chapter>
 
     <chapter><title>Built-In Integrations</title>
+      <sect1><title>Notifications from Tracker</title>
+	<sect2><title>Twitter</title><para>tbd</para></sect2>
+	<sect2><title>Campfire</title><para>tbd</para></sect2>
+	<sect2><title></title><para>tbd</para></sect2>
+      </sect1>
+
       <sect1><title>Bugzilla</title><para>tbd</para></sect1>
       <sect1><title>Lighthouse</title><para>tbd</para></sect1>
       <sect1><title>JIRA</title><para>tbd</para></sect1>
@@ -137,10 +164,10 @@ Integrations.
       <sect1><title>Zendesk</title><para>tbd</para></sect1>
     </chapter>
 
-    <chapter><title>Using the "Other" Integration</title><para>tbd</para></chapter>
     <chapter><title>Google Apps Integration</title><para>tbd</para></chapter>
 
     <chapter><title>External Resources</title>
+      <sect1><title>Finding Public Projects in Tracker</title><para>tbd</para></sect1>
       <sect1><title>Community Support on Get Satisfaction</title><para>tbd</para></sect1>
       <sect1><title>Customer Support Through Email</title><para>tbd</para></sect1>
       <sect1><title>The Pivotal Tracker Blog</title><para>tbd</para></sect1>
@@ -153,6 +180,7 @@ Integrations.
 
     <chapter><title>The Tracker API</title><para>tbd</para></chapter>
     <chapter><title>Using the Activity Web Hook</title><para>tbd</para></chapter>
+    <chapter><title>Using the "Other" Integration</title><para>tbd</para></chapter>
     <chapter>
       <title>
         API Example: Displaying Your Current Iteration in a Web Page
