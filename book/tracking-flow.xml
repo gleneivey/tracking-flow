@@ -9,13 +9,13 @@
   <title>Tracking Flow</title>
   <subtitle>Coordinating Teams with Pivotal Tracker</subtitle>
 
+  <chapter>
+    <title>Introduction: What Will Tracker Do For You</title>
+    <para>tbd</para>
+  </chapter>
+
   <part>
     <title>Projects and Stories</title>
-
-    <chapter>
-      <title>Introduction: What Will Tracker Do For You</title>
-      <para>tbd</para>
-    </chapter>
 
     <chapter><title>Getting Started</title>
       <sect1><title>The Tracker Workflow</title>
