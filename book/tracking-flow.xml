@@ -142,6 +142,7 @@ Integrations.
       </sect1>
       <sect1><title>Time Reporting</title>
         <sect2><title>Shifts Report</title><para>tbd</para></sect2>
+      </sect1>
     </chapter>
   </part>
 
@@ -260,6 +261,6 @@ diagnosis, fixes
 
   <chapter>
     <title>Stuff that needs to be put in a real place</title>
-    <section><title>you might waht to use an "archive" project</title><para>tbd</para></section>
+    <para>tbd</para>
   </chapter>
 </book>
